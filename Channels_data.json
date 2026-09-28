@@ -1,0 +1,28 @@
+{
+  "playlistName": "Md Munna Playlist",
+  "owner": "Md Munna",
+  "version": "1.0",
+  "channels": [
+    {
+      "number": 1,
+      "name": "Channel Name 1",
+      "category": "News",
+      "logo": "https://example.com/logo1.png",
+      "url": "https://example.com/stream1.m3u8"
+    },
+    {
+      "number": 2,
+      "name": "Channel Name 2",
+      "category": "Entertainment",
+      "logo": "https://example.com/logo2.png",
+      "url": "https://example.com/stream2.m3u8"
+    },
+    {
+      "number": 3,
+      "name": "Channel Name 3",
+      "category": "Sports",
+      "logo": "https://example.com/logo3.png",
+      "url": "https://example.com/stream3.m3u8"
+    }
+  ]
+}
