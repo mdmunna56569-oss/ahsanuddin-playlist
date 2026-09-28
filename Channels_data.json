@@ -23,6 +23,48 @@
       "category": "Sports",
       "logo": "https://example.com/logo3.png",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8"
-    }
+    },{
+  "number": 4,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+},{
+  "number": 5,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+},{
+  "number": 6,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+},{
+  "number": 7,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+},{
+  "number": 8,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+},{
+  "number": 9,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+},{
+  "number": 10,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+}
   ]
 }
