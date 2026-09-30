@@ -79,6 +79,12 @@
       "category": "Bangla",
       "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
       "url": "https://আপনার-stream-link/live.m3u8"
-    }
+    },{
+  "number": 12,
+  "name": "নতুন চ্যানেলের নাম",
+  "category": "Bangla",
+  "logo": "https://আপনার-logo-link.com/logo.png",
+  "url": "https://আপনার-stream-link/live.m3u8"
+}
   ]
 }
