@@ -12,63 +12,73 @@
     },
     {
       "number": 2,
-      "name": "ATN News ",
+      "name": "ATN News",
       "category": "Entertainment",
       "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
       "url": "https://tvsen6.aynaott.com/da6WMXAk/index.m3u8?e=1784102557&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=11c7f2ed16c910de7308032faaf7a7ec"
     },
     {
       "number": 3,
-      "name": "Channel Name ",
+      "name": "Channel Name",
       "category": "Sports",
       "logo": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Boishakhi_Tv_Logo.png",
       "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8"
-    },{
-  "number": 4,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
-},{
-  "number": 5,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
-},{
-  "number": 6,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
-},{
-  "number": 7,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
-},{
-  "number": 8,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
-},{
-  "number": 9,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
-},{
-  "number": 10,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
-},{
-  "number": 11,
-  "name": "নতুন চ্যানেলের নাম",
-  "category": "Bangla",
-  "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
-  "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 4,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
+    },
+    {
+      "number": 5,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 6,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 7,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 8,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 9,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 10,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
+    },
+    {
+      "number": 11,
+      "name": "নতুন চ্যানেলের নাম",
+      "category": "Bangla",
+      "logo": "https://i.postimg.cc/Vkgfb413/unnamed-(2).jpg",
+      "url": "https://আপনার-stream-link/live.m3u8"
     }
+  ]
+}
